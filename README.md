@@ -1,1 +1,1 @@
-* Assingments + exercises for Laitteisto 1 and 2
+# Assingments + exercises for Laitteisto 1 and 2
