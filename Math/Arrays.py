@@ -23,3 +23,4 @@ for name, vector in vectors:
 for i in range(4):
     name, vector = vectors[i]
     print(f"Norm of {name}: {linalg.norm(vector, axis=None)}")
+
